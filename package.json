@@ -1,17 +1,17 @@
 {
-  "homepage":"https://bharath-rajiv.github.io/jatayu-rtsd",
-  "name": "material-dashboard-2-react",
+  "homepage":"jatayu-rtsd",
+  "name": "jatayu-rtsd",
   "version": "2.1.0",
   "private": true,
   "author": "Bharath Rajiv A",
   "license": "See license in https://www.youtube.com/watch?v=p7YXXieghto/license",
   "description": "React version of RT System Diagonostics by Bharath Rajiv A",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
+    "url": "https://github.com/bharath-rajiv/jatayu-rtsd"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
+    "url": "git+https://github.com/bharath-rajiv/jatayu-rtsd.git"
   },
   "engines": {
     "node": "14 || 15 || 16",
