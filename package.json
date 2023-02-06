@@ -1,5 +1,5 @@
 {
-  "homepage": "https://bharath-rajiv.github.io/RT-System-Diagnostics",
+  "homepage":"https://bharath-rajiv.github.io/jatayu-rtsd",
   "name": "material-dashboard-2-react",
   "version": "2.1.0",
   "private": true,
@@ -35,7 +35,7 @@
     "react-dom": "17.0.2",
     "react-github-btn": "1.2.1",
     "react-router-dom": "6.2.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "5.0.0",
     "react-table": "7.7.0",
     "stylis": "4.0.13",
     "stylis-plugin-rtl": "2.1.1",
@@ -44,6 +44,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",

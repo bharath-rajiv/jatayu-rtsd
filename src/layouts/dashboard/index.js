@@ -1,6 +1,4 @@
-// 
 import Grid from "@mui/material/Grid";
-
 // RT System Diagonostics React components
 import MDBox from "components/MDBox";
 
